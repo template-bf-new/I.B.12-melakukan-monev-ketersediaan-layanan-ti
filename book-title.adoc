@@ -1,0 +1,51 @@
+= Laporan Hasil Pemantauan dan Evaluasi Ketersediaan Layanan Teknologi Informasi
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+[preface]
+== Hasil pemantauan ketersediaan layanan dan komponen layanan
+
+Some text to describe preface of the book. Some text to describe preface of the book. Some text to describe preface of the book. Some text to describe preface of the book. Some text to describe preface of the book.  Some text to describe preface of the book. Some text to describe preface of the book.
+
+== Analisis aspek-aspek ketersediaan layanan dan komponen layanan
+
+Isi
+
+=== Persentase Ketersediaan
+
+Isi
+
+=== Tingkat Kemampuan Pemulihan
+
+Isi
+
+=== Tingkat Keandalan
+
+Isi
+
+== Hasil Evaluasi Semua Insiden Berkaitan Ketersediaan Layanan
+
+Isi
+
